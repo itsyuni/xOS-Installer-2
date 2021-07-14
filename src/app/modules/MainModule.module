@@ -1,0 +1,14 @@
+{
+  "props": [],
+  "components": {
+    "downloader": {
+      "type": "bundle\\http\\HttpDownloader",
+      "x": 16,
+      "y": 16,
+      "props": {
+        "urls": "http://url/xOScodenameCrystal.exe",
+        "threadCount": "4"
+      }
+    }
+  }
+}
