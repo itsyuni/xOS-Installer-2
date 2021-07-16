@@ -1,4 +1,4 @@
-# xOS-Installer-2
+# xOS Installer v2
 Обновлённая версия онлайн-установщика xOS (<a href="https://github.com/itsyuni/xOS-Installer">старая версия</a>)<br><br>
 Для его работы нужен билд xOS, его нужно загрузить на сервер.<br>
 А потом в модуле Downloader поменять URL-адрес, идущий к билду.<br>
